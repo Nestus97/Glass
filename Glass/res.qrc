@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Bulb.png</file>
+        <file>Ray.png</file>
+        <file>bg.png</file>
+        <file>Background.png</file>
+        <file>Finish.png</file>
+        <file>WinnerSong.mp3</file>
+        <file>Winner.mp3</file>
+    </qresource>
+</RCC>
